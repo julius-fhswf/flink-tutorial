@@ -62,6 +62,7 @@ public class StreamingJob {
    *     	 <artifactId>flink-connector-redis_2.10</artifactId>
    *     	 <version>1.1.5</version>
    *     </dependency>
+   *
    */
   public static void main(String[] args) throws Exception {
 		// set up the streaming execution environment
